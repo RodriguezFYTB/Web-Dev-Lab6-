@@ -50,6 +50,7 @@ body {
     float: left;
   }
   
+  
   #main-content {
     min-height: 300px;
     width: 715px;
@@ -116,6 +117,7 @@ body {
     text-align: center;
   }
   
+
   strong {
     font-weight: 900;
     font-size: 48px;
